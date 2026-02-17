@@ -144,7 +144,7 @@ DirectoryLog.txt
 
 ## 👨‍💻 Author
 
-**Vivek B Hauraj Gautam**  
+**Vivek Bhauraj Gautam**  
 📅 Assignment No: 31  
 
 ---
@@ -156,4 +156,5 @@ DirectoryLog.txt
 💻 GitHub: https://github.com/vivekbgautam  
 
 ---
+
 
