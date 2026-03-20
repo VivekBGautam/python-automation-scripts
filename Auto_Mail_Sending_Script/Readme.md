@@ -66,7 +66,7 @@ python Auto_Mail_Sender.py
 ```
 ## Function Used
 
-def Marvellous_send_mail(sender, app_password, receiver, subject, body):
+def Vivek_send_mail(sender, app_password, receiver, subject, body):
  Security Warning 
 
 Do NOT expose your App Password in public repositories
@@ -76,7 +76,7 @@ Use environment variables or .env file instead
 Always use a temporary/test email account
 
 ## Example Output
-Mervellous Mail sent Succesfully
+Vivek Mail sent Succesfully
 
 Future Improvements
 
@@ -96,3 +96,5 @@ Build GUI interface
 ### Email: vivekbgautam@gmail.com
 
 ### GitHub: https://github.com/vivekbgautam
+
+### LinkedIn : https://www.linkedin.com/in/vivek-b-gautam/
