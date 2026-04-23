@@ -1,7 +1,7 @@
 # 📁 Directory Scanner Automation Script (Python)
 
 ## 🚀 Overview
-
+ 
 The **Directory Scanner Automation Script** is a Python-based utility designed to scan directories, analyze file structures, and generate useful insights such as file counts, sizes, and file types. It’s especially useful for automation, storage analysis, and system organization.
 
 ---
