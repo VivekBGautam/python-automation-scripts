@@ -1,7 +1,7 @@
 # Whrite the automation script to print the file name with extention .txt
 
 import sys
-import os 
+import os
 
 def DirectoryFileSearch(DirName,Fileextention):
     Ret = False
