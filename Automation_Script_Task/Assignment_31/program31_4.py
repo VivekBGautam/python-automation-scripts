@@ -1,7 +1,7 @@
 # Whrite the automation script to which copy all file from source directry to Destinatiion Directry 
 
 import sys
-import os 
+import os
 import shutil
 
 def DirectoryFileSearch(DirName,DestDir,FileExt):
