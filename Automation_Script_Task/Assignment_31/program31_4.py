@@ -1,6 +1,6 @@
 # Whrite the automation script to which copy all file from source directry to Destinatiion Directry 
 
-import sys 
+import sys
 import os 
 import shutil
 
